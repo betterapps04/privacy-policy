@@ -78,28 +78,24 @@ The App uses the following third-party services:
 
 **OCR.space (Photo-to-Text)**
 - **Purpose:** Extracts text from images you select when using the Photo-to-Text feature
-- **Data Sent:** The image you select from your gallery, encoded as base64 over HTTPS
-- **Privacy Policy:** [https://ocr.space/privacy](https://ocr.space/privacy)
+- **Data Sent:** The image you select from your gallery, encoded as base64 over HTTPS 
 - **Note:** We do not control OCR.space's data practices. Images are sent only when you explicitly trigger the Photo-to-Text feature.
 
 **Google AdMob (Advertising)**
 - **Purpose:** Displays advertisements in the app
 - **Data Collected by AdMob:** AdMob may collect device identifiers, IP address, and advertising data for ad personalization
-- **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
 - **Opt-Out:** You can opt out of personalized ads in your device settings
 
 **Firebase Analytics (Google LLC)**
 - **Purpose:** Collects anonymous usage data to help us understand how the app is used and improve the user experience
 - **Data Collected:** App events, session duration, device model, OS version, and approximate country/region
 - **Note:** No personal data or note content is ever shared with Firebase
-- **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
 - **Opt-Out:** You can opt out via your device's advertising settings or by disabling analytics in your Google account settings
 
 **Firebase Crashlytics (Google LLC)**
 - **Purpose:** Collects anonymous crash reports to help us identify and fix bugs
 - **Data Collected:** Crash logs, stack traces, device state at time of crash, app version, and OS version
 - **Note:** Crash reports do not contain your notes or any personal data
-- **Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 We do NOT control and are NOT responsible for third-party privacy practices. We encourage you to review their privacy policies.
 
