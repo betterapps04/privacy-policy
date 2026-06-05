@@ -37,7 +37,7 @@ The App requests the following permissions:
    - Your choice: Required for the app to function
 
 2. **POST_NOTIFICATIONS**
-   - Purpose: To send daily puzzle reminders, streak alerts, and promotional offers (e.g., free coins)
+   - Purpose: To send daily puzzle reminders, streak alerts, and gameplay rewards (e.g., free coins)
    - Your choice: You are asked to opt in on first launch. You can disable notifications at any time in your device settings.
 
 3. **VIBRATE**
@@ -82,7 +82,7 @@ This data contains no personal information and is used solely to identify and fi
 
 We use Google Firebase Cloud Messaging to send push notifications. When you opt in to notifications:
 - A device token is generated and stored by Firebase
-- We may send notifications about daily puzzles, streak reminders, and promotional offers
+- We may send notifications about daily puzzles, streak reminders, and free coins.
 - No personal information is associated with the token
 
 You can revoke notification permissions at any time through your device settings.
