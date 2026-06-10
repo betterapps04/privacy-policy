@@ -126,7 +126,7 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
 **Better Apps**
-Email: dev.soni04@gmail.com
+Email: daily.gyaan.4u@gmail.com
 
 ---
 
