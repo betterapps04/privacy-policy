@@ -24,7 +24,7 @@ We use Firebase Analytics (provided by Google) to collect anonymous usage data i
 - Hint usage (type and count)
 - In-app purchase events
 - Ad interaction events (impressions and dismissals)
-- Achievement unlocks, daily reward claims, and spin wheel usage
+- Achievement unlocks, daily reward claims.
 
 This data is collected in aggregate and is used solely to understand how the App is used and to improve the user experience. Firebase Analytics may associate this data with an advertising identifier (Android Advertising ID) on your device.
 
